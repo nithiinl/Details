@@ -1,0 +1,17 @@
+** SEO friendly keywordds in <meta tag>  ,, like best doctors in gacchibowli
+** Analytics, like who are visiting the site
+
+
+TODO
+=====
+
+1. create that lazy loading api should only call whenever particular viewport is on
+2. create an controller for body using POST in headers all inf, ---> 1. for data like displaiyinin UI , 2. for data posting in the form. 
+		** it should have service layer
+		** it should have controller
+
+		** controllers for HEADER,BODY, MAPS, FOOTER
+
+3. JWt token validation
+
+4. 
